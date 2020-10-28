@@ -49,7 +49,7 @@ const AdminAddEvent = () => {
                 </div>
                 </div>
                 <div align="center">
-                <button className="btn btn-light mx-auto w-100 m-4" type="submit"> <img style={{width:"30px"}} src="https://raw.githubusercontent.com/ProgrammingHero1/volunteer-network/main/logos/cloud-upload-outline%201.png" alt=""/> Add Product</button>
+                <button className="btn btn-light mx-auto w-100 m-4" type="submit"> <img style={{width:"30px"}} src="https://raw.githubusercontent.com/ProgrammingHero1/volunteer-network/main/logos/cloud-upload-outline%201.png" alt=""/> Add Event</button>
                 </div>
             </form>
             </div>
