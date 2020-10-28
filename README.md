@@ -19,7 +19,7 @@ Different panel for user and admin Panel and adding Event Option for an admin. F
 <br />
 <br />
 
-## I'm a Student, Web Developer and Musician!!
+## I'm a Student, Programmer, Web Developer and Musician!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Contribute more to Open Source projects
